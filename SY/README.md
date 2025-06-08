@@ -15,3 +15,19 @@
 |공통|  촌수계산   |https://www.acmicpc.net/problem/2644|  파이썬   |
 |개인1|   약수    |https://www.acmicpc.net/problem/1037|  파이썬   |
 |개인2| 막대기 |https://www.acmicpc.net/problem/1094|  파이썬   |
+
+## Week 3: May 19 - May 25
+
+| **구분** | **문제** |                **링크**                | **언어** |
+|:------:|:------:|:------------------------------------:|:------:|
+|공통|  파일정리  |https://www.acmicpc.net/problem/20291|  파이썬   |
+|개인1| 별찍기-9  |https://www.acmicpc.net/problem/2446|  파이썬   |
+|개인2|  동전 0  |https://www.acmicpc.net/problem/11047|  파이썬   |
+
+## Week 4: May 26 - June 1
+
+| **구분** |   **문제**    |                **링크**                 | **언어** |
+|:------:|:-----------:|:-------------------------------------:|:------:|
+|공통|     봄버맨     |https://www.acmicpc.net/problem/16918  |  파이썬   |
+|개인1|   ACM 호텔    | https://www.acmicpc.net/problem/10250 |  파이썬   |
+|개인2| 미역은 식물 아닌데요 | https://www.acmicpc.net/problem/30502 |  파이썬   |
