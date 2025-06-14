@@ -31,3 +31,11 @@
 |공통|     봄버맨     |https://www.acmicpc.net/problem/16918  |  파이썬   |
 |개인1|   ACM 호텔    | https://www.acmicpc.net/problem/10250 |  파이썬   |
 |개인2| 미역은 식물 아닌데요 | https://www.acmicpc.net/problem/30502 |  파이썬   |
+
+## Week 5: June 9 - June 15
+
+| **구분** |        **문제**        |                              **링크**                              | **언어** |
+|:------:|:--------------------:|:----------------------------------------------------------------:|:------:|
+|공통|        랜선자르기         |               https://www.acmicpc.net/problem/1654               |  파이썬   |
+|개인1|     연속된 부분 수열의 합     | https://school.programmers.co.kr/learn/courses/30/lessons/178870 |  파이썬   |
+|개인2|[PCCE 기출문제] 9번 / 이웃한 칸|https://school.programmers.co.kr/learn/courses/30/lessons/250125|  파이썬   |
