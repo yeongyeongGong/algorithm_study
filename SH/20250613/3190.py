@@ -40,7 +40,8 @@ def game(x, y, time, to):
                 field[nh_r][nh_c] = 1  # 머리 위치에 뱀 그리기.
 
                 # 머리와 꼬리의 회전 판별.
-                # 회전한다면 방향을 설정하고, 다음 차례의 timeline 을 보기 위해 order 값에 1을 추가.
+                # 회전한다면 방향을 설정하고,
+                # 다음 차례의 timeline 을 보기 위해 order 값에 1을 추가.
                 if h_time == timeline[h_order][0]:
                     h_to = (h_to + rotate[timeline[h_order][1]]) % 4
                     h_order += 1
@@ -55,10 +56,11 @@ def game(x, y, time, to):
                 if ct_r != nt_r or ct_c != nt_c:
                     field[ct_r][ct_c] = 0
 
+        # 게임이 끝날 때 1초를 추가하지 않기 때문에, 따로 추가해서 출력.
             else:
-                return h_time + 1  # 게임이 끝날 때 1초를 추가하지 않기 때문에, 따로 추가해서 출력.
+                return h_time + 1
         else:
-            return h_time + 1  # 게임이 끝날 때 1초를 추가하지 않기 때문에, 따로 추가해서 출력.
+            return h_time + 1
 
 
 N = int(input())
