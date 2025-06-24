@@ -39,3 +39,11 @@
 |공통|        랜선자르기         |               https://www.acmicpc.net/problem/1654               |  파이썬   |
 |개인1|     연속된 부분 수열의 합     | https://school.programmers.co.kr/learn/courses/30/lessons/178870 |  파이썬   |
 |개인2|[PCCE 기출문제] 9번 / 이웃한 칸|https://school.programmers.co.kr/learn/courses/30/lessons/250125|  파이썬   |
+
+## Week 6: June 16 - June 22
+
+| **구분** |  **문제**  |                             **링크**                              | **언어** |
+|:------:|:--------:|:---------------------------------------------------------------:|:------:|
+|공통| 단지번호 붙이기 |     https://www.acmicpc.net/problem/2667  |  파이썬   |
+|개인1|   택배상자   |https://school.programmers.co.kr/learn/courses/30/lessons/131704 |  파이썬   |
+|개인2| 팀 이름 정하기 |              https://www.acmicpc.net/problem/1296               |  파이썬   |
