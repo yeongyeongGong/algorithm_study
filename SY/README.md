@@ -47,3 +47,11 @@
 |공통| 단지번호 붙이기 |     https://www.acmicpc.net/problem/2667  |  파이썬   |
 |개인1|   택배상자   |https://school.programmers.co.kr/learn/courses/30/lessons/131704 |  파이썬   |
 |개인2| 팀 이름 정하기 |              https://www.acmicpc.net/problem/1296               |  파이썬   |
+
+## Week 7: June 23 - June 29
+
+| **구분** | **문제** |                              **링크**                              | **언어** |
+|:------:|:------:|:----------------------------------------------------------------:|:------:|
+|공통|   -    |                                -                                 |  파이썬   |
+|개인1| 문자열 반복 |https://www.acmicpc.net/problem/2675|  파이썬   |
+|개인2|  컵홀더   |https://www.acmicpc.net/problem/2810|  파이썬   |
